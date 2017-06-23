@@ -1,25 +1,6 @@
-# ReduxSimpleStarter
+A sample book list using Redux
+![capture](https://user-images.githubusercontent.com/18416366/27484510-1df5ea56-5847-11e7-8d54-a7f79e88ce96.PNG)
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+The first image signifies the book-list
+![capture1](https://user-images.githubusercontent.com/18416366/27484531-360dfb7e-5847-11e7-8ba0-a9fa69190804.PNG)
+On click of the book you could see the details of the current book selected
